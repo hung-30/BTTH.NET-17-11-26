@@ -1,8 +1,8 @@
 # BÁO CÁO THỰC HÀNH WINDOWS FORMS - BÀI TẬP 6.1 & 6.2
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
-- **Họ và tên sinh viên:** Phan Công Thành Đạt
-- **Mã sinh viên:** 24810310223
+- **Họ và tên sinh viên:** Phạm Hữu Hưng
+- **Mã sinh viên:** 24810310239
 - **Lớp :** D19CNPM3
 
 ---
